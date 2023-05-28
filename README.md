@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tfikler
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python & linux
+- 🌱 I’m currently Second year student at reichman university
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me by email to tfikler@gmail.com
 
