@@ -10,7 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 Github stats:
 
-[![Anurag's GitHub stats](https://stats-y9e8.vercel.app/api?username=tfikler)](https://github.com/tfikler/github-readme-stats)
+[![Anurag's GitHub stats](https://stats-y9e8.vercel.app/api?username=tfikler)]
 
-[![Top Langs](https://stats-y9e8.vercel.app/api/top-langs/?username=tfikler)](https://github.com/tfikler/github-readme-stats)
-
+[![Top Langs](https://stats-y9e8.vercel.app/api/top-langs/?username=tfikler)]
